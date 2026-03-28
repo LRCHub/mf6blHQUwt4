@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "Memories（feat. UMI、Camilo）",
-  "base_artist": "星野 源",
-  "createdAt": "2026-02-23T06:33:05.003836Z",
+  "base_artist": "星野源 Gen Hoshino",
+  "createdAt": "2026-03-28T01:29:35.171073Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -21,12 +21,12 @@
       "path": "select/02_Memories_(feat._UMI,_Camilo)_星野源.txt"
     },
     {
-      "id": "petitlyrics_1",
-      "source": "petitlyrics",
+      "id": "lrclib_3",
+      "source": "lrclib",
       "title": "Memories (feat. UMI, Camilo)",
-      "artist": "星野源",
+      "artist": "Gen Hoshino, UMI, Camilo",
       "has_synced": false,
-      "path": "select/pl_01_Memories_(feat._UMI,_Camilo)_星野源.txt"
+      "path": "select/03_Memories_(feat._UMI,_Camilo)_Gen_Hoshino,_UMI,_Camilo.txt"
     }
   ]
 }
