@@ -1,4 +1,4 @@
-# 星野 源 – Memories（feat. UMI、Camilo）
+# 星野源 Gen Hoshino – Memories（feat. UMI、Camilo）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
